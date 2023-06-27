@@ -1,0 +1,46 @@
+{
+	"id": -1,
+	"name": "Red Flood",
+	"description": "Red Flood is an alternate history mod for the Grand Strategy game Hearts of Iron IV about a prolonged crisis of modernity and the subsequent death of the old world. The mod is often praised for attention to detail in matters of historical accuracy, immersive writing, and a beautiful sense of artistic direction.\n\nThe design on r/place features a shared heart with its neighbor, The New Order, as the two mods are partners and frequently collaborate.",
+	"links": {
+		"website": [
+			"https://steamcommunity.com/sharedfiles/filedetails/?id=2815832636"
+		],
+		"subreddit": [
+			"redfloodmod"
+		],
+		"discord": [
+			"7seDvZ7RmK"
+		]
+	},
+	"path": {
+		"121-144": [
+			[
+				430,
+				1970
+			],
+			[
+				452,
+				1970
+			],
+			[
+				452,
+				1957
+			],
+			[
+				430,
+				1957
+			],
+			[
+				430,
+				1970
+			]
+		]
+	},
+	"center": {
+		"121-144": [
+			441,
+			1964
+		]
+	}
+}
